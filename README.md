@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sowmya Macheri Balaji
-- 👀 I’m interested in CPU/GPU Architecture , Design Verification
+- 👀 I’m interested in Microarchitecture Security (CPU/GPU Architecture) and reverse engineering. I also explore design verification.
 - 🌱 I’m currently learning Computer Engineering 
 - 📫 How to reach me smacher@ncsu.edu / sowmyabalaji30@gmail.com 
 
